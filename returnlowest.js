@@ -1,3 +1,5 @@
+//Return lowest index of an array.
+
 function getIndexToIns(arr, num) {
     arr.sort(function(a,b){
       return(a-b)
