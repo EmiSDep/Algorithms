@@ -14,3 +14,4 @@ function alternatingCharacters(s) {
 ​
     // console.log(`Deletions: ${deletions}`);
     return deletions;
+}
