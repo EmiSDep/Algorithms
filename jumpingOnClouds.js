@@ -4,7 +4,8 @@ function jumpingOnClouds(c) {
         jump++;
         if(c[i] == 1) {
             i -= 1;
-        } 
+        }
     }
     return jump;
 }
+
